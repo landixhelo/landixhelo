@@ -1,4 +1,4 @@
-### 👋 Hi, I'm [Your Name], a Front-End Developer!
+### 👋 Hi, I'm [Landi Xhelo], a Front-End Developer!
 
 - 💻 Specializing in crafting responsive and user-friendly web interfaces
 - 🚀 Passionate about creating seamless and visually appealing user experiences
