@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @landixhelo
-- 👀 I’m interested in front-end developer
-- 🌱 I’m currently learning javascript fullstack
-- 💞️ I’m looking to collaborate on client
-- 📫 How to reach me send me email / landixhelo02@gmail.con
+### 👋 Hi, I'm [Your Name], a Front-End Developer!
 
-<!---
-landixhelo/landixhelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Specializing in crafting responsive and user-friendly web interfaces
+- 🚀 Passionate about creating seamless and visually appealing user experiences
+- 🛠️ Proficient in: HTML, CSS, JavaScript, React
+- 🌱 Currently exploring [JavaScript FullStack]
+- 🤝 Open to collaboration and building awesome web projects
+
+### 🚀 Projects
+
+- 
+
+### 🔧 Tech Stack
+
+- HTML | CSS | JavaScript | React | 
+
+
+### 📫 Let's Connect
+
+- 📧 Email: [landixhelo02@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/landi-xhelo/]
+- 🐦 Twitter: [@xhelo_landi]
