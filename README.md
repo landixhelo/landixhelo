@@ -2,8 +2,8 @@
 
 - 💻 Specializing in crafting responsive and user-friendly web interfaces
 - 🚀 Passionate about creating seamless and visually appealing user experiences
-- 🛠️ Proficient in: HTML, CSS, JavaScript, React
-- 🌱 Currently exploring JavaScript FullStack
+- 🛠️ Proficient in: HTML, CSS, Bootstrap, JavaScript, React js, Mongo DB, Express JS, Node JS
+- 🌱 Currently exploring JavaScript FullStack (MERN)
 - 🤝 Open to collaboration and building awesome web projects
 
 ### 🚀 Projects
