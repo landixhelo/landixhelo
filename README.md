@@ -19,4 +19,4 @@
 
 - 📧 Email: [landixhelo02@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/landi-xhelo/]
-- 🐦 Twitter: [@xhelo_landi]
+- 🐦 Twitter: [https://x.com/landi_xhelo]
