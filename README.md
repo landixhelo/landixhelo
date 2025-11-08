@@ -3,12 +3,11 @@
 - 💻 Specializing in crafting responsive and user-friendly web interfaces
 - 🚀 Passionate about creating seamless and visually appealing user experiences
 - 🛠️ Proficient in: HTML, CSS, Bootstrap, JavaScript, React js, Mongo DB, Express JS, Node JS
-- 🌱 Currently exploring JavaScript FullStack (MERN)
 - 🤝 Open to collaboration and building awesome web projects
 
 ### 🚀 Projects
 
-- https://github.com/landixhelo/Solo-Project | https://github.com/landixhelo/Rubic-Project
+- https://solocreativeagency.netlify.app/ | (https://devbyland.netlify.app
 
 ### 🔧 Tech Stack
 
